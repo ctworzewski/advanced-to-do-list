@@ -10,8 +10,8 @@ const lists = document.querySelector('.allLists');
      let userInput = writeTaskInInput.value;
 
      if (writeTaskInInput.value === '') {
-         document.querySelector('.writeTaskInInput').style.border = "1px red solid";
-         document.querySelector('.writeTaskInInput').placeholder = "wprowadź tekst";
+         document.querySelector('.writeTaskInInput').style.border = "3px red solid";
+         document.querySelector('.writeTaskInInput').placeholder = "Nie wprowadzona zadania! ";
         // const emptyInputAlert = function() {
         //     const textEmptyInputAlert = document.createElement('span');
         //     textEmptyInputAlert.textContent = 'wprowadź zadanie!';

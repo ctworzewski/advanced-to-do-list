@@ -1,0 +1,20 @@
+ #app {
+    padding-left: 4%;
+} 
+
+.writeTaskInInput {
+    width: 20vw;
+    text-align: center;
+}
+
+.btnDelete {
+    display: inline;
+color: chartreuse;
+/* display: inline-flexbox; */
+background-color: red !important;
+}
+
+.btnDelete {
+    display: block;
+    background-color: blue;
+}
