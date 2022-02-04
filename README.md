@@ -11,7 +11,7 @@ Najłatwiejszy jes pnkt pierwszy, który w zasadzie wykonałem, dalsze rozwiąza
 
 * [ ]  dodawać i usuwać zadania za pomocą klawisza `Enter` oraz `Delete`,
 
-* [ ] Zrobić tak, żeby nie można było dodawać pustych zadań,
+* [x] Zrobić tak, żeby nie można było dodawać pustych zadań,
 
 * [ ] Poprawić stylowanie i zrobić żeby to ładnie wyglądało, może jakieś ładne kolorki, cienie;
 
