@@ -29,7 +29,7 @@ let lists = document.querySelector('.allLists');
         buttonDeleteTask.addEventListener('click', function() {
             removeTask(li,buttonDeleteTask)});
         }
-        localStorage.setItem('cos', lists);
+        localStorage.setItem('cos', userInput);
         localStorage.getItem('cos');
 
     }
